@@ -1,0 +1,6 @@
+2020-11-02 18:22:48 [Thread:main][ Class:util.FileIOUtils >> Method: util.FileIOUtils.loadGraph(FileIOUtils.java:69) ]
+INFO:TakenTime:0.1014924
+2020-11-02 18:23:02 [Thread:main][ Class:algorithm.Randomizer >> Method: algorithm.Randomizer.run(Randomizer.java:60) ]
+ERROR:13.4997115
+2020-11-02 18:36:52 [Thread:main][ Class:algorithm.CoreDecomposition >> Method: algorithm.CoreDecomposition.run(CoreDecomposition.java:101) ]
+INFO:830.036169
